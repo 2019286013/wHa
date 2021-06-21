@@ -1,0 +1,129 @@
+@font-face {
+    font-family: 'Chosunilbo_myungjo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    width: 1920px;
+    height: 3770px;
+    margin: 0px;
+    background-color: #B3B2AD;
+    font-family: 'Chosunilbo_myungjo';
+    font-size: 13px;
+    word-spacing: 1px;
+    line-height: 20px;
+}
+
+#slider{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+#imageContainer{
+    position: absolute;
+    left: 765px;
+    top: 165px;
+    width: 550px;
+    height: 450px;
+    display: flex;
+    overflow: hidden;
+}
+
+#imageSlider{
+    width: 1650px;
+    display: flex;
+    transition: transform 0.5s;
+}
+
+#leftArrow{
+    position: absolute;
+    left: 570px;
+    top: 135px;
+}
+
+#rightArrow{
+    position: absolute;
+    left: 605px;
+    top: 135px;
+}
+
+#background{
+    position: absolute;
+    left: 0px;
+    top: 67px;
+}
+
+#frame{
+    position: absolute;
+    left: 0px;
+    top: 140px;
+}
+
+#home{
+    position: absolute;
+    left: 520px;
+    top: 25px;
+}
+
+#line{
+    position: absolute;
+    left: 1250px;
+    top: 25px; 
+}
+
+#history{
+    position: absolute;
+    left: 1340px;
+    top: 28px;
+}
+
+#lower{
+    position: absolute;
+    left: 0px;
+    top: 220px;
+}
+
+#historyw{
+    position: absolute;
+    left: 800px;
+    top: 1720px;
+}
+
+#aboutw{
+    position: absolute;
+    left: 800px;
+    top: 2660px;
+}
+
+#contact{
+    position: absolute;
+    left: 800px;
+    top: 3160px;
+}
+
+#lp{
+    position: absolute;
+    left: 520px;
+    top: 960px;
+}
+
+#linebutton{
+    position: absolute;
+    left: 1280px;
+    top: 1375px;
+}
+
+#hisbutton{
+    position: absolute;
+    left: 1280px;
+    top: 2200px;
+}
+
+#topbutton{
+    position: fixed;
+    left: 1445px;
+    top: 670px;
+}

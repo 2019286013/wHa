@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Chosunilbo_myungjo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    width: 1920px;
+    height: 7680px;
+    margin: 0px;
+    background: linear-gradient( 90deg, #DAD7D0 770px, #CFCAC4 1px);
+    font-family: 'Chosunilbo_myungjo';
+    font-weight: lighter;
+    font-size: 13px;
+    word-spacing: 1px;
+    line-height: 20px;
+}
+
+#home{
+    position: absolute;
+    left: 520px;
+    top: 25px;
+}
+
+#line{
+    position: absolute;
+    left: 1250px;
+    top: 25px; 
+}
+
+#history{
+    position: absolute;
+    left: 1340px;
+    top: 28px;
+}
+
+#frame{
+    position: absolute;
+    left: 0px;
+    top: 70px;
+}
+
+#lower{
+    position: absolute;
+    left: 0px;
+    top: 7530px;
+}
+
+#hat{
+    position: absolute;
+    left: 512px;
+    top: 237px;
+}
+
+#m1{
+    position: absolute;
+    left: 520px;
+    top: 463px;
+}
+
+#m2{
+    position: absolute;
+    left: 520px;
+    top: 1116px;
+}
+
+#m3{
+    position: absolute;
+    left: 520px;
+    top: 1920px;
+}
+
+#m4{
+    position: absolute;
+    left: 520px;
+    top: 2567px;
+}
+
+#m5{
+    position: absolute;
+    left: 520px;
+    top: 3318px;
+}
+
+#m6{
+    position: absolute;
+    left: 520px;
+    top: 4058px;
+}
+
+#m7{
+    position: absolute;
+    left: 520px;
+    top: 4896px;
+}
+
+#m8{
+    position: absolute;
+    left: 520px;
+    top: 5652px;
+}
+
+#m9{
+    position: absolute;
+    left: 520px;
+    top: 6432px;
+}
+
+#m10{
+    position: absolute;
+    left: 520px;
+    top: 7198px;
+}
+
+#topbutton{
+    position: fixed;
+    left: 1445px;
+    top: 670px;
+}

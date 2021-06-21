@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Chosunilbo_myungjo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    width: 1920px;
+    height: 3000px;
+    margin: 0px;
+    background-color: #B3B2AD;
+    font-family: 'Chosunilbo_myungjo';
+    font-weight: lighter;
+    font-size: 13px;
+    word-spacing: 1px;
+    line-height: 20px;
+}
+
+#home{
+    position: absolute;
+    left: 520px;
+    top: 25px;
+}
+
+#line{
+    position: absolute;
+    left: 1250px;
+    top: 25px; 
+}
+
+#history{
+    position: absolute;
+    left: 1340px;
+    top: 28px;
+}
+
+#frame{
+    position: absolute;
+    left: 0px;
+    top: 70px;
+}
+
+#lower{
+    position: absolute;
+    left: 0px;
+    top: 2850px;
+}
+
+#time{
+    position: absolute;
+    left: 615px;
+    top: 590px;
+}
+
+#c1{
+    position: absolute;
+    left: 800px;
+    top: 265px;
+}
+
+#c2{
+    position: absolute;
+    left: 800px;
+    top: 590px;
+}
+
+#c3{
+    position: absolute;
+    left: 800px;
+    top: 888px;
+}
+
+#c4{
+    position: absolute;
+    left: 800px;
+    top: 1280px;
+}
+
+#c5{
+    position: absolute;
+    left: 800px;
+    top: 1630px;
+}
+
+#c6{
+    position: absolute;
+    left: 800px;
+    top: 2040px;
+}
+
+#c7{
+    position: absolute;
+    left: 800px;
+    top: 2455px;
+}
+
+#topbutton{
+    position: fixed;
+    left: 1445px;
+    top: 670px;
+}
